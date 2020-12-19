@@ -1,6 +1,9 @@
 * librerias cargadas por Jose Alonso
 - pip install python-youtube
 - pip install Youtube2Images
+* librerias cargadas por Gilio Barnuevo
+- Coolstuff
+- Pixiedust
 
 * librerias cargadas por Pedro Enrique 
 - pip install selenium-youtube
